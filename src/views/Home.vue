@@ -87,6 +87,7 @@ box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rg
   h1 .float-start {
     margin-left: 46px;
   }
+  
 
   @media (max-width: 1100px) {
     .bg-image {

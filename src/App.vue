@@ -11,6 +11,7 @@
         <component :is="Component"></component>
       </transition>
     </router-view>
+
 </template>
 
 <style>
@@ -80,4 +81,5 @@
     letter-spacing: 0;
   }
 }
+
 </style>

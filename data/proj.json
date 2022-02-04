@@ -1,9 +1,0 @@
-{
-    "project": [
-        {"id": 1, "image": "https://i.postimg.cc/LsLhhbyG/Muhammad-Yaasien-Salaam-Google-Chrome-2021-10-27-11-40-22-edited.jpg", "title": "First Project", "details": "My very first website I built", "github": "https://github.com/yaasien-s/my-css-site", "link": "https://yaasien-1.netlify.app/"},
-        {"id": 2, "image": "https://i.postimg.cc/Sx33gy6Y/Screenshot-10.png", "title": "BMI Calculator", "details": "Created a BMI calculator using JavaScript", "github": "https://github.com/yaasien-s/BMI-Calculator", "link": "https://yaasiensbmi.netlify.app/"},
-        {"id": 3, "image": "https://i.postimg.cc/zB1M10PJ/Screenshot-11.png", "title": "Point of Sales", "details": "Created an online shopping store using JavaScript", "github": "https://github.com/yaasien-s/Point-of-sale", "link": "https://yaasien-pos.netlify.app/"},
-        {"id": 4, "image": "https://i.postimg.cc/tg6ffLkS/Screenshot-12.png", "title": "J.S Calcultor", "details": "First Calculator I created", "github": "https://github.com/yaasien-s/JavaScript-calculator", "link": "https://javascript-calculator-ys.netlify.app/"},
-        {"id": 5, "image": "https://i.postimg.cc/bJH5YkK1/Screenshot-13.png", "title": "Portfolio", "details": "Previous porfolio used.", "github": "https://github.com/yaasien-s/Trident", "link": "https://yaasiensalaam.netlify.app/"}
-    ]
-}
