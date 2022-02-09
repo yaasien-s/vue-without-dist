@@ -58,7 +58,7 @@
 }
 
 /* route transition */
-.route-enter-form {
+.route-enter-from {
   opacity: 0;
   transform: translateX(100px);
 }
