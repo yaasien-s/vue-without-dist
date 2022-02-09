@@ -144,12 +144,14 @@ export default {
     background: #2b2b26;
     /* border: #568259 1px solid; */
     border-radius: 5px;
+    transition: 00.3s;
     padding: 5px;
     box-shadow: rgba(48, 48, 48, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
 }
 .project-details a:hover {
     color: #2b2b26;
     text-decoration: underline;
+    transition: 00.3s;
     background: #568259;
     border: none;
     transition: 0.3s;
@@ -167,6 +169,7 @@ export default {
   width: fit-content;
   margin-left: auto;
   margin-right: auto;
+  transition: 00.3s;
 }
 #Back:hover {
     background: #2b2b26;

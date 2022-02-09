@@ -109,10 +109,12 @@
     margin: 10px auto;
     max-width: 600px;
     cursor: pointer;
+    transition: 00.3s;
     color: #568259;
   }
 
   .project h2:hover {
+    transition: 00.3s;
     background: #78b47c;
     color: #2b2b26;
     /* border: #2b2b26 1px solid; */

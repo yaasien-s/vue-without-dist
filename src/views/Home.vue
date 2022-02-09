@@ -75,6 +75,7 @@
   #socials a {
     color: #fff;
     margin: 10px;
+    transition: 00.3s;
   }
 
   #socials a:hover {
