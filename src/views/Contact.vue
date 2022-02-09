@@ -134,7 +134,7 @@
                 subject: "",
                 message: "",
             }
-        },
+        }, 
         methods: {
             handleSubmit() {
                 console.log(`form submitted`)

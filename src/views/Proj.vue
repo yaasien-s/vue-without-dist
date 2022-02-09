@@ -115,6 +115,7 @@
 
   .project h2:hover {
     transition: 00.3s;
+    
     background: #78b47c;
     color: #2b2b26;
     /* border: #2b2b26 1px solid; */

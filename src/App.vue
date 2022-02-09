@@ -57,6 +57,7 @@
   box-sizing: border-box;
 }
 
+
 /* route transition */
 .route-enter-from {
   opacity: 0;

@@ -39,7 +39,6 @@
 </svg></router-link>
 </div>
     <footer>© 2021 Yaasien Salaam ALL RIGHTS RESERVED</footer>
-
 </section>
 </template>
 <script>

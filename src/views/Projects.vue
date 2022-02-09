@@ -170,6 +170,7 @@ export default {
   margin-left: auto;
   margin-right: auto;
   transition: 00.3s;
+  
 }
 #Back:hover {
     background: #2b2b26;
