@@ -162,6 +162,20 @@
             image: "https://i.postimg.cc/k41VBBPh/Yaseen3-min.jpg",
             content: "Yaasien is an amazing developer and is always willing to help the next person when needed",
           },
+           {
+            name: "Dale De Kock",
+            title: "Aspiring Full-Stack Dev",
+            id: 2,
+            image: "https://i.postimg.cc/PfVZqFtr/Dale2-min.jpg",
+            content: "Yaasien works with speed, still producing extremely high quality work. He then turns his attention to helping others. A fantastic addition to any team.",
+          },
+           {
+            name: "Dale De Kock",
+            title: "Aspiring Full-Stack Dev",
+            id: 2,
+            image: "https://i.postimg.cc/PfVZqFtr/Dale2-min.jpg",
+            content: "Yaasien works with speed, still producing extremely high quality work. He then turns his attention to helping others. A fantastic addition to any team.",
+          }
         ],
       };
     },
@@ -182,7 +196,7 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 25);
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
   }
 
   .btn {
@@ -225,16 +239,16 @@
   }
 
   #about-img {
-    margin-top: 100px !important;
+    margin-top: 50px;
     width: 75%;
     height: 85%;
     object-fit: cover;
-    margin-top: 80px;
     box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
   }
 
   #about-subtitle {
-    margin-top: 125px;
+    margin-top: 50px;
+    margin-bottom: 2rem;
     text-align: initial;
   }
 

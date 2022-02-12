@@ -4,6 +4,7 @@ import Resume from '../views/Resume.vue'
 import Proj from '../views/Proj.vue'
 import Projects from '../views/Projects.vue'
 import Contact from '../views/Contact.vue'
+import Footer from '../components/Footer.vue'
 
 
 const routes = [
@@ -37,6 +38,11 @@ const routes = [
     name: 'Contact',
     component: Contact
   },
+  {
+    path: '/footer',
+    name: 'Footer',
+    component: Footer
+  }
 ]
 
 const router = createRouter({

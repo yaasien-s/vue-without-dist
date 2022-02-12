@@ -89,18 +89,15 @@
 #resume {
 	margin-top: 100px;
 }
-	#R-h1 {
-		margin-top: 100px;
-	}
+
 	.skill-icon {
 		background-color: #292929;
 		box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 		border-radius: 10px;
 	}
-
 	.resumes-heading h1 {
-    margin-top: 5rem;
-    margin-bottom: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 .resumes-container {
   width: 100%;
@@ -109,7 +106,7 @@
   justify-content: center;
   /* flex-direction: row; */
   flex-wrap: wrap;
-  margin-bottom: 5rem;
+  margin-bottom: 1rem;
   /* margin-left: 100px; */
 }
 .resume {
@@ -121,7 +118,7 @@
   box-shadow: 0 0 10px rgba(0, 0, 0, 25);
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
 }
 
 .resume-content {
@@ -140,4 +137,5 @@
 	margin-bottom: 20px;
 	box-shadow: 0 0 10px rgba(0, 0, 0, 25);
 }
+
 </style>

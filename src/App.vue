@@ -12,6 +12,8 @@
       </transition>
     </router-view>
 
+    <!-- <Footer /> -->
+
 </template>
 
 <style>

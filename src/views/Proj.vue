@@ -21,9 +21,9 @@
         </svg></router-link>
     </div>
 
-        <footer>© 2022 Yaasien Salaam ALL RIGHTS RESERVED</footer>
+    <footer>© 2022 Yaasien Salaam ALL RIGHTS RESERVED</footer>
 
-    
+
   </section>
 </template>
 
@@ -70,7 +70,16 @@
             "details": "Previous porfolio used.",
             "github": "https://github.com/yaasien-s/Trident",
             "link": "https://yaasiensalaam.netlify.app/"
+          },
+          {
+            "id": 6,
+            "image": "https://i.postimg.cc/nLYdzj7H/Muhammad-Yaasien-Salaam-Google-Chrome-2021-10-27-11-43-23-edited.jpg",
+            "title": "Peaceful Watches",
+            "details": "Mini project made with bootstrap.",
+            "github": "https://github.com/yaasien-s/bootstrapweb",
+            "link": "https://peaceful-watches.netlify.app/"
           }
+
 
         ]
       }
@@ -81,7 +90,8 @@
 
 <style>
   .a-h1 {
-    margin-top: 100px;
+    margin-top: 25px;
+    margin-bottom: 25px;
   }
 
   #projects {
@@ -97,7 +107,7 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 25);
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
   }
 
   .proj {

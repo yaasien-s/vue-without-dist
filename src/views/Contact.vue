@@ -174,30 +174,32 @@
         box-shadow: 0 0 10px rgba(0, 0, 0, 25);
         margin-left: auto;
         margin-right: auto;
-        margin-bottom: 100px;
-        padding-bottom: 100px;
+        margin-bottom: 50px;
+        padding-bottom: 50px;
     }
 
     .contact-heading {
-        margin-top: 75px;
+        margin-top: 25px;
+        margin-bottom: 25px;
     }
 
     form {
-        max-width: 420px;
+        /* max-width: 420px; */
         margin: 30px auto;
         background: #2b2b26;
         text-align: left;
         padding: 40px;
         border-radius: 10px;
-        margin-top: 70px;
-        height: 500px;
+        /* margin-top: 70px; */
+        /* height: 500px; */
         border: 1px solid #2b2b26;
-        margin-top: 100px !important;
+        /* margin-top: 100px !important; */
         box-shadow: 0 0 10px rgba(0, 0, 0, 25);
     }
 
     .contact-text {
-        margin-top: 175px !important;
+        margin-top: 30px !important;
+        margin: 30px;
         text-align: initial;
     }
 
@@ -352,5 +354,10 @@
         border-radius: 20px;
         transition: 0.3s;
         box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+    }
+    @media (max-width: 580px) {
+        .contact-text {
+            margin: 0;
+        }
     }
 </style>
