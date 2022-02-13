@@ -184,7 +184,7 @@
     }
 
     form {
-        /* max-width: 420px; */
+        max-width: 420px;
         margin: 30px auto;
         background: #2b2b26;
         text-align: left;

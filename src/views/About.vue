@@ -163,18 +163,18 @@
             content: "Yaasien is an amazing developer and is always willing to help the next person when needed",
           },
            {
-            name: "Dale De Kock",
-            title: "Aspiring Full-Stack Dev",
+            name: "Aphiwe",
+            title: "Front-end Dev",
             id: 2,
-            image: "https://i.postimg.cc/PfVZqFtr/Dale2-min.jpg",
-            content: "Yaasien works with speed, still producing extremely high quality work. He then turns his attention to helping others. A fantastic addition to any team.",
+            image: "https://i.postimg.cc/0Nk0vvFs/Aphiwe4.jpg",
+            content: "If you're looking for great web designs that are user-friendly and engaging to vistors. Yasaien is the Web Developer you should get in contact with.",
           },
            {
-            name: "Dale De Kock",
+            name: "Abdul-Muhaymien Salaam",
             title: "Aspiring Full-Stack Dev",
             id: 2,
-            image: "https://i.postimg.cc/PfVZqFtr/Dale2-min.jpg",
-            content: "Yaasien works with speed, still producing extremely high quality work. He then turns his attention to helping others. A fantastic addition to any team.",
+            image: "https://i.postimg.cc/w38sV1rD/1580982461579.jpg",
+            content: "Yaasien has a unique way of solving complex problems that others tend to miss. That ability sets him apart from other developers. He will work tireslessly to produce the best he possibly can and is always looking to improve himself and learn more. He would be an asset to any company!",
           }
         ],
       };
