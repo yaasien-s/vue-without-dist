@@ -58,7 +58,7 @@
           {
             "id": 4,
             "image": "https://i.postimg.cc/tg6ffLkS/Screenshot-12.png",
-            "title": "J.S Calcultor",
+            "title": "J.S Calculator",
             "details": "First Calculator I created",
             "github": "https://github.com/yaasien-s/JavaScript-calculator",
             "link": "https://javascript-calculator-ys.netlify.app/"

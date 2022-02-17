@@ -203,6 +203,10 @@
         text-align: initial;
     }
 
+    .contact-info {
+        margin-left: -50px;
+    }
+
     label {
         color: #568259;
         display: inline-block;
@@ -341,12 +345,13 @@
 
     #contact-socials {
         margin-top: 40px;
-        margin-left: 50px;
+        margin-left: -10px;
     }
 
     #contact-socials a {
         color: #2b2b26;
         margin: 10px;
+        transition: 0.3s;
     }
 
     #contact-socials a:hover {

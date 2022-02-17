@@ -1,10 +1,10 @@
 <template>
   <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link> |
-    <router-link to="/resume">Resume</router-link> |
-    <router-link to="/proj">Projects</router-link> |
-    <router-link to="/contact">Contact</router-link>
+    <router-link to="/" title="HOME">Home</router-link> |
+    <router-link to="/about" title="ABOUT">About</router-link> |
+    <router-link to="/resume" title="RESUME">Resume</router-link> |
+    <router-link to="/proj" title="PROJECTS">Projects</router-link> |
+    <router-link to="/contact" title="CONTACT">Contact</router-link>
   </div>
     <router-view v-slot="{ Component }">
       <transition name="route" mode="out-in">
@@ -31,8 +31,13 @@
   top: 0;
   left: 0;
   width: 100%;
-  /* background: #222; */
   z-index: 1000;
+}
+
+nav ul {
+  text-align: center;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 100%);
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
 }
 
 #nav a {
@@ -42,6 +47,7 @@
   padding: 8px;
   border-radius: 4px;
   font-weight: 500;
+  font-size: 1.1rem;
   box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
 }
 

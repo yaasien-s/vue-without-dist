@@ -48,12 +48,12 @@
           <div class="col-sm-12 col-md-4 col-md-6">
             <div class="card mb-3">
               <div class="card-body">
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
+                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor"
                   class="bi bi-code-slash" viewBox="0 0 16 16">
                   <path
                     d="M10.478 1.647a.5.5 0 1 0-.956-.294l-4 13a.5.5 0 0 0 .956.294l4-13zM4.854 4.146a.5.5 0 0 1 0 .708L1.707 8l3.147 3.146a.5.5 0 0 1-.708.708l-3.5-3.5a.5.5 0 0 1 0-.708l3.5-3.5a.5.5 0 0 1 .708 0zm6.292 0a.5.5 0 0 0 0 .708L14.293 8l-3.147 3.146a.5.5 0 0 0 .708.708l3.5-3.5a.5.5 0 0 0 0-.708l-3.5-3.5a.5.5 0 0 0-.708 0z" />
                 </svg>
-                <h5 class="card-title">Web Development</h5>
+                <h3 class="card-title">Web Development</h3>
                 <p class="card-text"></p>
 
               </div>
@@ -62,12 +62,12 @@
           <div class="col-sm-12 col-md-4 col-md-6">
             <div class="card mb-3">
               <div class="card-body">
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-tools"
+                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-tools"
                   viewBox="0 0 16 16">
                   <path
                     d="M1 0 0 1l2.2 3.081a1 1 0 0 0 .815.419h.07a1 1 0 0 1 .708.293l2.675 2.675-2.617 2.654A3.003 3.003 0 0 0 0 13a3 3 0 1 0 5.878-.851l2.654-2.617.968.968-.305.914a1 1 0 0 0 .242 1.023l3.356 3.356a1 1 0 0 0 1.414 0l1.586-1.586a1 1 0 0 0 0-1.414l-3.356-3.356a1 1 0 0 0-1.023-.242L10.5 9.5l-.96-.96 2.68-2.643A3.005 3.005 0 0 0 16 3c0-.269-.035-.53-.102-.777l-2.14 2.141L12 4l-.364-1.757L13.777.102a3 3 0 0 0-3.675 3.68L7.462 6.46 4.793 3.793a1 1 0 0 1-.293-.707v-.071a1 1 0 0 0-.419-.814L1 0zm9.646 10.646a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708zM3 11l.471.242.529.026.287.445.445.287.026.529L5 13l-.242.471-.026.529-.445.287-.287.445-.529.026L3 15l-.471-.242L2 14.732l-.287-.445L1.268 14l-.026-.529L1 13l.242-.471.026-.529.445-.287.287-.445.529-.026L3 11z" />
                 </svg>
-                <h5 class="card-title">Responsive Behaviour</h5>
+                <h3 class="card-title">Responsive Behaviour</h3>
                 <p class="card-text"></p>
               </div>
             </div>
@@ -75,12 +75,12 @@
           <div class="col-sm-12 col-md-4 col-md-6">
             <div class="card mb-3">
               <div class="card-body">
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-cup"
+                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-cup"
                   viewBox="0 0 16 16">
                   <path
                     d="M1 2a1 1 0 0 1 1-1h11a1 1 0 0 1 1 1v1h.5A1.5 1.5 0 0 1 16 4.5v7a1.5 1.5 0 0 1-1.5 1.5h-.55a2.5 2.5 0 0 1-2.45 2h-8A2.5 2.5 0 0 1 1 12.5V2zm13 10h.5a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.5-.5H14v8zM13 2H2v10.5A1.5 1.5 0 0 0 3.5 14h8a1.5 1.5 0 0 0 1.5-1.5V2z" />
                 </svg>
-                <h5 class="card-title">Barista</h5>
+                <h3 class="card-title">Barista</h3>
                 <p class="card-text"></p>
 
               </div>
@@ -89,7 +89,7 @@
           <div class="col-sm-12 col-md-4 col-md-6">
             <div class="card mb-3">
               <div class="card-body">
-                <svg id="Icons_Crawl" width="24" height="24" overflow="hidden" fill="currentColor" version="1.1"
+                <svg id="Icons_Crawl" width="32" height="32" overflow="hidden" fill="currentColor" version="1.1"
                   viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                   <g>
                     <circle cx="81.5" cy="28.3" r="8" />
@@ -97,7 +97,7 @@
                       d=" M 64.9 29.5 L 64.9 29.5 C 50.6 25.5 37.3 31.9 30.6 35.3 L 30.6 35.3 C 27.6 36.8 25.5 39.8 25.5 43.4 L 25.5 60.2 L 8.8 68.1 C 6.8 69 6 71.4 6.9 73.4 C 7.6 74.8 9 75.7 10.5 75.7 C 11.1 75.7 11.7 75.6 12.2 75.3 L 31.2 66.3 C 32.6 65.6 33.5 64.2 33.5 62.7 L 33.5 48.1 L 44.3 55.9 L 37 69.8 C 36 71.8 36.7 74.2 38.7 75.2 C 39.3 75.5 39.9 75.7 40.6 75.7 C 42 75.7 43.4 74.9 44.1 73.6 L 53.1 56.6 C 54 54.8 53.5 52.6 51.9 51.5 L 43.9 45.8 L 63.6 45.8 L 63.6 71.8 C 63.6 74 65.4 75.8 67.6 75.8 C 69.8 75.8 71.6 74 71.6 71.8 L 71.6 37.3 C 71.5 33.4 68.6 30.1 64.9 29.5 Z" />
                   </g>
                 </svg>
-                <h5 class="card-title">Personal Trainer</h5>
+                <h3 class="card-title">Personal Trainer</h3>
                 <p class="card-text"></p>
               </div>
             </div>
@@ -198,7 +198,9 @@
     margin-right: auto;
     margin-bottom: 50px;
   }
-
+  img svg {
+    float: left !important;
+  }
   .btn {
     text-transform: uppercase;
     float: left;
@@ -284,7 +286,15 @@
     border-radius: 3px;
   }
 
+  .card-body svg {
+    position: absolute;
+    bottom: 25px;
+  }
 
+  .card-title {
+    text-align: initial;
+    margin-left: 60px;
+  }
 
   .testimonials-heading h1 {
     margin-top: 5rem;
@@ -304,6 +314,7 @@
 
   .testimonial {
     width: 40%;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     color: #000;
@@ -331,6 +342,8 @@
 
   .testimonial-content {
     padding: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
     display: flex;
     flex-direction: column;
   }
@@ -390,6 +403,7 @@
   }
 
   @media only screen and (max-width: 770px) {
+
     .testimonials-container {
       width: 85%;
       display: flex;
@@ -403,6 +417,7 @@
 
     .testimonial {
       width: 92%;
+      height: auto;
       display: flex;
       flex-direction: row;
       color: #000;
@@ -450,6 +465,7 @@
 
     .testimonial {
       width: 100%;
+      height: auto;
       display: flex;
       flex-direction: column;
       color: #000;
