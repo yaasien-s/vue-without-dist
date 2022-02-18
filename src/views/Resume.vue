@@ -31,8 +31,8 @@
                 d="M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z">
               </path>
             </svg></div>
-          <div title="CSS-3"><svg aria-hidden="true" focusable="false" height="75" width="75" data-prefix="fab" data-icon="css3-alt"
-              class="skill-icon mx-5 my-5 svg-inline--fa fa-css3-alt fa-w-12" role="img"
+          <div title="CSS-3"><svg aria-hidden="true" focusable="false" height="75" width="75" data-prefix="fab"
+              data-icon="css3-alt" class="skill-icon mx-5 my-5 svg-inline--fa fa-css3-alt fa-w-12" role="img"
               xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
               <path fill="#347DC6"
                 d="M0 32l34.9 395.8L192 480l157.1-52.2L384 32H0zm313.1 80l-4.8 47.3L193 208.6l-.3.1h111.5l-12.8 146.6-98.2 28.7-98.8-29.2-6.4-73.9h48.9l3.2 38.3 52.6 13.3 54.7-15.4 3.7-61.6-166.3-.5v-.1l-.2.1-3.6-46.3L193.1 162l6.5-2.7H76.7L70.9 112h242.2z">
@@ -40,15 +40,15 @@
             </svg></div>
         </div>
         <div class="col-sm-3">
-          <div title="Bootstrap"><svg aria-hidden="true" focusable="false" height="75" width="75" data-prefix="fab" data-icon="bootstrap"
-              class="skill-icon mx-5 my-5 svg-inline--fa fa-bootstrap fa-w-18" role="img"
+          <div title="Bootstrap"><svg aria-hidden="true" focusable="false" height="75" width="75" data-prefix="fab"
+              data-icon="bootstrap" class="skill-icon mx-5 my-5 svg-inline--fa fa-bootstrap fa-w-18" role="img"
               xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
               <path fill="#5E3B7F"
                 d="M333.5,201.4c0-22.1-15.6-34.3-43-34.3h-50.4v71.2h42.5C315.4,238.2,333.5,225,333.5,201.4z M517,188.6 c-9.5-30.9-10.9-68.8-9.8-98.1c1.1-30.5-22.7-58.5-54.7-58.5H123.7c-32.1,0-55.8,28.1-54.7,58.5c1,29.3-0.3,67.2-9.8,98.1 c-9.6,31-25.7,50.6-52.2,53.1v28.5c26.4,2.5,42.6,22.1,52.2,53.1c9.5,30.9,10.9,68.8,9.8,98.1c-1.1,30.5,22.7,58.5,54.7,58.5h328.7 c32.1,0,55.8-28.1,54.7-58.5c-1-29.3,0.3-67.2,9.8-98.1c9.6-31,25.7-50.6,52.1-53.1v-28.5C542.7,239.2,526.5,219.6,517,188.6z M300.2,375.1h-97.9V136.8h97.4c43.3,0,71.7,23.4,71.7,59.4c0,25.3-19.1,47.9-43.5,51.8v1.3c33.2,3.6,55.5,26.6,55.5,58.3 C383.4,349.7,352.1,375.1,300.2,375.1z M290.2,266.4h-50.1v78.4h52.3c34.2,0,52.3-13.7,52.3-39.5 C344.7,279.6,326.1,266.4,290.2,266.4z">
               </path>
             </svg></div>
-          <div title="JavaScript"><svg aria-hidden="true" focusable="false" height="75" width="75" data-prefix="fab" data-icon="js-square"
-              class="skill-icon mx-5 my-5 svg-inline--fa fa-js-square fa-w-14" role="img"
+          <div title="JavaScript"><svg aria-hidden="true" focusable="false" height="75" width="75" data-prefix="fab"
+              data-icon="js-square" class="skill-icon mx-5 my-5 svg-inline--fa fa-js-square fa-w-14" role="img"
               xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
               <path fill="#E4BA42"
                 d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM243.8 381.4c0 43.6-25.6 63.5-62.9 63.5-33.7 0-53.2-17.4-63.2-38.5l34.3-20.7c6.6 11.7 12.6 21.6 27.1 21.6 13.8 0 22.6-5.4 22.6-26.5V237.7h42.1v143.7zm99.6 63.5c-39.1 0-64.4-18.6-76.7-43l34.3-19.8c9 14.7 20.8 25.6 41.5 25.6 17.4 0 28.6-8.7 28.6-20.8 0-14.4-11.4-19.5-30.7-28l-10.5-4.5c-30.4-12.9-50.5-29.2-50.5-63.5 0-31.6 24.1-55.6 61.6-55.6 26.8 0 46 9.3 59.8 33.7L368 290c-7.2-12.9-15-18-27.1-18-12.3 0-20.1 7.8-20.1 18 0 12.6 7.8 17.7 25.9 25.6l10.5 4.5c35.8 15.3 55.9 31 55.9 66.2 0 37.8-29.8 58.6-69.7 58.6z">
@@ -56,16 +56,13 @@
             </svg></div>
         </div>
         <div class="col-sm-3">
-          <div title="Git/Github"><svg aria-hidden="true" focusable="false" height="75" width="75" data-prefix="fab" data-icon="git-alt"
-              class="skill-icon mx-5 my-5 svg-inline--fa fa-git-alt fa-w-14" role="img"
+          <div title="Wordpress"><svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" height="75" width="75" class="skill-icon mx-5 my-5 svg-inline--fa fa-wordpress fa-w-14" fill="#21759B">
+              <path
+                d="M61.7 169.4l101.5 278C92.2 413 43.3 340.2 43.3 256c0-30.9 6.6-60.1 18.4-86.6zm337.9 75.9c0-26.3-9.4-44.5-17.5-58.7-10.8-17.5-20.9-32.4-20.9-49.9 0-19.6 14.8-37.8 35.7-37.8.9 0 1.8.1 2.8.2-37.9-34.7-88.3-55.9-143.7-55.9-74.3 0-139.7 38.1-177.8 95.9 5 .2 9.7.3 13.7.3 22.2 0 56.7-2.7 56.7-2.7 11.5-.7 12.8 16.2 1.4 17.5 0 0-11.5 1.3-24.3 2l77.5 230.4L249.8 247l-33.1-90.8c-11.5-.7-22.3-2-22.3-2-11.5-.7-10.1-18.2 1.3-17.5 0 0 35.1 2.7 56 2.7 22.2 0 56.7-2.7 56.7-2.7 11.5-.7 12.8 16.2 1.4 17.5 0 0-11.5 1.3-24.3 2l76.9 228.7 21.2-70.9c9-29.4 16-50.5 16-68.7zm-139.9 29.3l-63.8 185.5c19.1 5.6 39.2 8.7 60.1 8.7 24.8 0 48.5-4.3 70.6-12.1-.6-.9-1.1-1.9-1.5-2.9l-65.4-179.2zm183-120.7c.9 6.8 1.4 14 1.4 21.9 0 21.6-4 45.8-16.2 76.2l-65 187.9C426.2 403 468.7 334.5 468.7 256c0-37-9.4-71.8-26-102.1zM504 256c0 136.8-111.3 248-248 248C119.2 504 8 392.7 8 256 8 119.2 119.2 8 256 8c136.7 0 248 111.2 248 248zm-11.4 0c0-130.5-106.2-236.6-236.6-236.6C125.5 19.4 19.4 125.5 19.4 256S125.6 492.6 256 492.6c130.5 0 236.6-106.1 236.6-236.6z" />
+              </svg></div>
+          <div title="Vue JS"><svg aria-hidden="true" focusable="false" height="75" width="75" data-prefix="fab"
+              data-icon="vuejs" class="skill-icon mx-5 my-5 svg-inline--fa fa-vuejs fa-w-14" role="img"
               xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
-              <path fill="#F15233"
-                d="M439.55 236.05L244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z">
-              </path>
-            </svg></div>
-          <div title="Vue JS"><svg aria-hidden="true" focusable="false" height="75" width="75" data-prefix="fab" data-icon="vuejs"
-              class="skill-icon mx-5 my-5 svg-inline--fa fa-vuejs fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 448 512">
               <path fill="#3EB489"
                 d="M356.9 64.3H280l-56 88.6-48-88.6H0L224 448 448 64.3h-91.1zm-301.2 32h53.8L224 294.5 338.4 96.3h53.8L224 384.5 55.7 96.3z">
               </path>
@@ -160,9 +157,11 @@
     margin-left: auto !important;
     margin-right: auto !important;
   }
-div[title]{
-  position: relative;
-}
+
+  div[title] {
+    position: relative;
+  }
+
   div[title]:hover:after {
     content: attr(title);
     border-radius: 5px;
