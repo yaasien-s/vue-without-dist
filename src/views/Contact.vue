@@ -153,7 +153,11 @@
                     },
                 })
                 .then((response) => response.json())
-                .then((json) => alert(json.msg))
+                .then((json) => {alert(json.msg)
+                this.name ="",
+                this.email ="",
+                this.message =""
+                })
                 .catch((e) => alert(e.msg));
             },
         }
