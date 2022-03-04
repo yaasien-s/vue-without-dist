@@ -78,6 +78,14 @@
             "details": "Mini project made with bootstrap.",
             "github": "https://github.com/yaasien-s/bootstrapweb",
             "link": "https://peaceful-watches.netlify.app/"
+          },
+          {
+            "id": 7,
+            "image": "https://i.postimg.cc/1zg5qKdy/Screenshot-15.png",
+            "title": "A&Y Coffee Company",
+            "details": "Ecommerce website",
+            "github": "https://github.com/yaasien-s/AY-Coffee",
+            "link": "https://ay-coffee-company-a4ff7.web.app/"
           }
 
 
